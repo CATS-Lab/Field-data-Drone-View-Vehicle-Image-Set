@@ -1,0 +1,38 @@
+<annotation>
+  <folder>./Drone2 640cuts</folder>
+  <filename>Drone2 640cuts/Drone2 (757).jpg</filename>
+  <path>./Drone2 640cuts/Drone2 (757).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>172</xmin>
+      <ymin>77</ymin>
+      <xmax>263</xmax>
+      <ymax>161</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>300</xmin>
+      <ymin>237</ymin>
+      <xmax>366</xmax>
+      <ymax>328</ymax>
+    </bndbox>
+  </object>
+</annotation>
