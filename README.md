@@ -18,4 +18,4 @@ The dataset was previously used for training a YOLOv8 model, achieving remarkabl
 
 ![confusion_matrix](https://github.com/Keke-Long/Drone-View-Vehicle-Image-Set/assets/101722521/15b53f45-6d5e-40bb-a8d9-229ac6b21d7e)
 
-![test_batch0_labels](https://github.com/Keke-Long/Drone-View-Vehicle-Image-Set/assets/101722521/5a9820de-95c3-4d9b-8369-63561045b3e1)
+![test_batch0_pred](https://github.com/Keke-Long/Drone-View-Vehicle-Image-Set/assets/101722521/181be62a-540a-443a-ba56-5c5462ff3bb6)
